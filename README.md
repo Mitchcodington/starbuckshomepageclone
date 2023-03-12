@@ -1,6 +1,5 @@
 GENERAL INFO :
-
-Recreated UK's monzo digital bank personal account homepage .
+Cloned Starbucks homepage .
 
 Project was created with:
 
