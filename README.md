@@ -1,4 +1,5 @@
 GENERAL INFO :
+
 Cloned Starbucks homepage .
 
 Project was created with:
